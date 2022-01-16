@@ -236,7 +236,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "495-project-library"
+    ]
   },
   "meta": {
     "filename": "digitizer.kicad_pro",
@@ -320,6 +322,18 @@
     [
       "f20bb5f7-38bf-4f90-ade3-dea0af5f64a1",
       ""
+    ],
+    [
+      "e2c8983e-9459-4573-b339-1f4298bf65be",
+      "CANPWR"
+    ],
+    [
+      "8e4bebbd-b918-44d5-8394-c191f4e972d3",
+      "ANALOG"
+    ],
+    [
+      "59857acb-489d-4d58-af14-88362a204248",
+      "MCU"
     ]
   ],
   "text_variables": {}
