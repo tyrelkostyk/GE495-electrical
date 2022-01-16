@@ -24,3 +24,6 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+# ignore backup files
+kicad_project/digitizer/digitizer-backups/
