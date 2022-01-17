@@ -236,9 +236,7 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": [
-      "495-project-library"
-    ]
+    "pinned_symbol_libs": []
   },
   "meta": {
     "filename": "digitizer.kicad_pro",
