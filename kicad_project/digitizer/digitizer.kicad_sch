@@ -85,6 +85,9 @@
     (path "/59857acb-489d-4d58-af14-88362a204248/a2f8292f-dbd8-4bc4-a0f6-05759c5a69fa"
       (reference "#PWR0401") (unit 1) (value "GND") (footprint "")
     )
+    (path "/59857acb-489d-4d58-af14-88362a204248/360c2bbd-a0a3-46a6-a8fc-000e22263bb0"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/e2c8983e-9459-4573-b339-1f4298bf65be/ac40239e-70bd-4897-9e24-c339806e6ccc"
       (reference "C201") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_2220_5650Metric_Pad1.97x5.40mm_HandSolder")
     )
