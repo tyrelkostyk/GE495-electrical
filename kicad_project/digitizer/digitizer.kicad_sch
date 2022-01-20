@@ -152,7 +152,7 @@
       (reference "J303") (unit 1) (value "Conn_01x05") (footprint "")
     )
     (path "/59857acb-489d-4d58-af14-88362a204248/4fddafb8-a80f-479c-bb72-09844a9cb710"
-      (reference "J401") (unit 1) (value "Conn_02x05_Odd_Even") (footprint "")
+      (reference "J401") (unit 1) (value "Conn_02x05_Odd_Even") (footprint "SamacSys_Parts:SHF10501LDTHTR")
     )
     (path "/8e4bebbd-b918-44d5-8394-c191f4e972d3/5c13a661-79d4-4af8-8fae-8b5f9c3f688c"
       (reference "R301") (unit 1) (value "47") (footprint "Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder")
@@ -175,8 +175,14 @@
     (path "/8e4bebbd-b918-44d5-8394-c191f4e972d3/30295268-cd8d-4130-a446-54aa42ff192a"
       (reference "R307") (unit 1) (value "100") (footprint "Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder")
     )
-    (path "/59857acb-489d-4d58-af14-88362a204248/5d6dce58-c829-40b0-b42d-4480008ea013"
-      (reference "U401") (unit 1) (value "LPC1813JBD144") (footprint "495-project-library:LQFP-144_20x20mm_P0.5mm")
+    (path "/59857acb-489d-4d58-af14-88362a204248/bee7b8c0-6416-4305-af8e-509f2b7ceb87"
+      (reference "U?") (unit 1) (value "ATSAM4E8EA-AN") (footprint "LQFP144_20x20MC_MCH")
+    )
+    (path "/59857acb-489d-4d58-af14-88362a204248/1a54ad4e-84ec-4b8e-9b6c-dd2e1409e552"
+      (reference "U?") (unit 2) (value "ATSAM4E8EA-AN") (footprint "LQFP144_20x20MC_MCH")
+    )
+    (path "/59857acb-489d-4d58-af14-88362a204248/ce4b4b7e-6832-4b3b-b518-6a3c5a779f66"
+      (reference "U?") (unit 3) (value "ATSAM4E8EA-AN") (footprint "footprints:ATSAM4E8EA-AN")
     )
   )
 )
