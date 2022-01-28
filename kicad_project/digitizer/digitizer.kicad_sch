@@ -247,6 +247,12 @@
     (path "/8e4bebbd-b918-44d5-8394-c191f4e972d3/30295268-cd8d-4130-a446-54aa42ff192a"
       (reference "R307") (unit 1) (value "100") (footprint "Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder")
     )
+    (path "/59857acb-489d-4d58-af14-88362a204248/26282793-f3a0-4307-81a2-b34f3d8122dc"
+      (reference "R?") (unit 1) (value "4.7k") (footprint "Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder")
+    )
+    (path "/59857acb-489d-4d58-af14-88362a204248/e550bdff-0c0c-45dc-acb2-414eb3cc5e2d"
+      (reference "R?") (unit 1) (value "4.7k") (footprint "Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder")
+    )
     (path "/59857acb-489d-4d58-af14-88362a204248/bee7b8c0-6416-4305-af8e-509f2b7ceb87"
       (reference "U401") (unit 1) (value "ATSAM4E8EA-AN") (footprint "LQFP144_20x20MC_MCH")
     )
