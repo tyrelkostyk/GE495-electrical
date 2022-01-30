@@ -109,6 +109,12 @@
     (path "/59857acb-489d-4d58-af14-88362a204248/f30bd1d3-2b1e-4f3f-b910-f7d008fb9d74"
       (reference "#PWR0407") (unit 1) (value "GND") (footprint "")
     )
+    (path "/59857acb-489d-4d58-af14-88362a204248/38bfc2b7-4d3e-4afd-833e-16a7b3d92571"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/59857acb-489d-4d58-af14-88362a204248/e2b639a0-306b-4756-80c0-58307f5b2a13"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/e2c8983e-9459-4573-b339-1f4298bf65be/1a1440dd-2164-4601-a3b3-1ebf3a72fa49"
       (reference "C201") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_2220_5650Metric_Pad1.97x5.40mm_HandSolder")
     )
@@ -186,6 +192,9 @@
     )
     (path "/59857acb-489d-4d58-af14-88362a204248/ab6d12ab-0b38-4443-891e-7225bd98017b"
       (reference "C415") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_2220_5650Metric_Pad1.97x5.40mm_HandSolder")
+    )
+    (path "/59857acb-489d-4d58-af14-88362a204248/8d0dde11-3a12-4aac-9cad-4b8cbf5bacfc"
+      (reference "C?") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_2220_5650Metric_Pad1.97x5.40mm_HandSolder")
     )
     (path "/e2c8983e-9459-4573-b339-1f4298bf65be/b9c685d6-f377-4ad6-9066-70700b3c027c"
       (reference "IC201") (unit 1) (value "MAX3059ASA+T UPSTREAM") (footprint "SOIC127P600X175-8N")
@@ -267,6 +276,9 @@
     )
     (path "/59857acb-489d-4d58-af14-88362a204248/26282793-f3a0-4307-81a2-b34f3d8122dc"
       (reference "R406") (unit 1) (value "4.7k") (footprint "Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder")
+    )
+    (path "/59857acb-489d-4d58-af14-88362a204248/22c38390-9224-46b1-8806-de268e69a946"
+      (reference "R?") (unit 1) (value "4.7k") (footprint "Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder")
     )
     (path "/59857acb-489d-4d58-af14-88362a204248/65d0340b-427b-4875-a090-cd368319df11"
       (reference "S?") (unit 1) (value "PTS645SL43SMTR92LFS") (footprint "PTS645SL43SMTR92LFS")
