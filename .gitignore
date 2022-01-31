@@ -28,3 +28,4 @@ fp-info-cache
 # ignore backup files
 kicad_project/digitizer/digitizer-backups/
 kicad_project/digitizer/#auto_saved_files#
+*backups*
