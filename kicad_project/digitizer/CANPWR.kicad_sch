@@ -1623,7 +1623,7 @@
     (uuid cb564194-f3a5-43dc-92c5-a4986c563991)
     (property "Reference" "J202" (id 0) (at 151.13 81.28 0))
     (property "Value" "DT06-4S (DOWNSTREAM)" (id 1) (at 151.13 88.9 0))
-    (property "Footprint" "" (id 2) (at 149.86 83.82 0)
+    (property "Footprint" "SamacSys_Parts:1935187" (id 2) (at 149.86 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 149.86 83.82 0)

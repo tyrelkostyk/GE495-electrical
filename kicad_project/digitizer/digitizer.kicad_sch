@@ -224,19 +224,19 @@
       (reference "J201") (unit 1) (value "DT15-4P (UPSTREAM)") (footprint "DT154P")
     )
     (path "/e2c8983e-9459-4573-b339-1f4298bf65be/cb564194-f3a5-43dc-92c5-a4986c563991"
-      (reference "J202") (unit 1) (value "DT06-4S (DOWNSTREAM)") (footprint "")
+      (reference "J202") (unit 1) (value "DT06-4S (DOWNSTREAM)") (footprint "SamacSys_Parts:1935187")
     )
     (path "/8e4bebbd-b918-44d5-8394-c191f4e972d3/007bd6bd-180c-480f-8c55-0d11d5f96a5a"
-      (reference "J301") (unit 1) (value "T4141012051-000") (footprint "CONN5_T4141012051")
+      (reference "J301") (unit 1) (value "Load Cell 1") (footprint "SamacSys_Parts:1935187")
     )
     (path "/8e4bebbd-b918-44d5-8394-c191f4e972d3/60d39e31-baf5-4192-bafc-97ab1b59effa"
-      (reference "J302") (unit 1) (value "T4141012051-000") (footprint "CONN5_T4141012051")
+      (reference "J302") (unit 1) (value "Load Cell 3") (footprint "SamacSys_Parts:1935187")
     )
     (path "/8e4bebbd-b918-44d5-8394-c191f4e972d3/f22e9a9a-632d-4e94-a43d-8d29edd73a8e"
-      (reference "J303") (unit 1) (value "T4141012051-000") (footprint "CONN5_T4141012051")
+      (reference "J303") (unit 1) (value "Load Cell 2") (footprint "SamacSys_Parts:1935187")
     )
     (path "/59857acb-489d-4d58-af14-88362a204248/72d0cdc5-587a-4a68-bd9b-5ce4fa1871f4"
-      (reference "J401") (unit 1) (value "SHF-105-01-L-D-TH-TR") (footprint "SHF10501LDTHTR")
+      (reference "J401") (unit 1) (value "SHF-105-01-L-D-TH-TR") (footprint "SamacSys_Parts:SHF10501LDTHTR")
     )
     (path "/59857acb-489d-4d58-af14-88362a204248/88b1373f-54c8-470b-a4b1-5808493d5bfe"
       (reference "L401") (unit 1) (value "BLM41PG471SN1L") (footprint "Inductor_SMD:L_1806_4516Metric_Pad1.45x1.90mm_HandSolder")
@@ -299,10 +299,10 @@
       (reference "S401") (unit 1) (value "PTS645SL43SMTR92LFS") (footprint "PTS645SL43SMTR92LFS")
     )
     (path "/59857acb-489d-4d58-af14-88362a204248/bee7b8c0-6416-4305-af8e-509f2b7ceb87"
-      (reference "U401") (unit 1) (value "ATSAM4E8EA-AN") (footprint "LQFP144_20x20MC_MCH")
+      (reference "U401") (unit 1) (value "ATSAM4E8EA-AN") (footprint "footprints:ATSAM4E8EA-AN")
     )
     (path "/59857acb-489d-4d58-af14-88362a204248/1a54ad4e-84ec-4b8e-9b6c-dd2e1409e552"
-      (reference "U401") (unit 2) (value "ATSAM4E8EA-AN") (footprint "LQFP144_20x20MC_MCH")
+      (reference "U401") (unit 2) (value "ATSAM4E8EA-AN") (footprint "footprints:ATSAM4E8EA-AN")
     )
     (path "/59857acb-489d-4d58-af14-88362a204248/ce4b4b7e-6832-4b3b-b518-6a3c5a779f66"
       (reference "U401") (unit 3) (value "ATSAM4E8EA-AN") (footprint "footprints:ATSAM4E8EA-AN")
