@@ -493,7 +493,6 @@
     )
   )
 
-
   (junction (at 189.23 63.5) (diameter 0) (color 0 0 0 0)
     (uuid 0763d40c-fc86-48e9-9d3c-b99e0cc72548)
   )
@@ -1415,7 +1414,7 @@
     (property "Reference" "J303" (id 0) (at 53.34 121.92 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "Load Cell 2" (id 1) (at 53.34 125.73 0)
+    (property "Value" "Load Cell 3" (id 1) (at 53.34 125.73 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Footprint" "SamacSys_Parts:1935187" (id 2) (at 72.39 147.574 0)
