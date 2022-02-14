@@ -756,9 +756,6 @@
     (uuid f7fd5259-72a0-49d0-b406-f8c36e16cfbb)
   )
 
-  (no_connect (at 241.3 88.9) (uuid 3aa79335-1661-420a-ba46-510c784c18c4))
-  (no_connect (at 241.3 83.82) (uuid 3aa79335-1661-420a-ba46-510c784c18c5))
-
   (wire (pts (xy 199.39 33.02) (xy 199.39 63.5))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 0096720c-394c-41af-996e-ebd72a3eeb34)
