@@ -224,13 +224,13 @@
       (reference "J202") (unit 1) (value "DT06-4S (DOWNSTREAM)") (footprint "SamacSys_Parts:1935187")
     )
     (path "/8e4bebbd-b918-44d5-8394-c191f4e972d3/007bd6bd-180c-480f-8c55-0d11d5f96a5a"
-      (reference "J301") (unit 1) (value "Load Cell 1") (footprint "SamacSys_Parts:1935187")
+      (reference "J301") (unit 1) (value "Load Cell 1") (footprint "SamacSys_Parts:1935190")
     )
     (path "/8e4bebbd-b918-44d5-8394-c191f4e972d3/fcb29622-816b-437c-bcf4-1ff62fd25a45"
-      (reference "J302") (unit 1) (value "Load Cell 2") (footprint "SamacSys_Parts:1935187")
+      (reference "J302") (unit 1) (value "Load Cell 2") (footprint "SamacSys_Parts:1935190")
     )
     (path "/8e4bebbd-b918-44d5-8394-c191f4e972d3/7817b7b0-7bad-44cd-9a29-85e8b44e0871"
-      (reference "J303") (unit 1) (value "Load Cell 3") (footprint "SamacSys_Parts:1935187")
+      (reference "J303") (unit 1) (value "Load Cell 3") (footprint "SamacSys_Parts:1935190")
     )
     (path "/59857acb-489d-4d58-af14-88362a204248/72d0cdc5-587a-4a68-bd9b-5ce4fa1871f4"
       (reference "J401") (unit 1) (value "SHF-105-01-L-D-TH-TR") (footprint "SamacSys_Parts:SHF10501LDTHTR")
