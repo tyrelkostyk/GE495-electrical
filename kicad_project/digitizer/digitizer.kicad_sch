@@ -70,8 +70,20 @@
     (path "/e2c8983e-9459-4573-b339-1f4298bf65be/7b471e74-5405-4970-b422-eb0e3003bc76"
       (reference "#PWR0206") (unit 1) (value "GND") (footprint "")
     )
-    (path "/e2c8983e-9459-4573-b339-1f4298bf65be/c2eba75e-5b93-40e0-92fb-b4992e6da037"
+    (path "/e2c8983e-9459-4573-b339-1f4298bf65be/be0c856b-8ef2-4e19-a760-63c85014d4ef"
       (reference "#PWR0207") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/e2c8983e-9459-4573-b339-1f4298bf65be/fabab09c-4d27-4fb1-9c7c-2cae6582bf86"
+      (reference "#PWR0208") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/e2c8983e-9459-4573-b339-1f4298bf65be/48663ae7-c237-4af0-ab9a-e29495de8e37"
+      (reference "#PWR0209") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/e2c8983e-9459-4573-b339-1f4298bf65be/b121f680-2aec-4097-8672-e551abed4af9"
+      (reference "#PWR0210") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/e2c8983e-9459-4573-b339-1f4298bf65be/c2eba75e-5b93-40e0-92fb-b4992e6da037"
+      (reference "#PWR0211") (unit 1) (value "GND") (footprint "")
     )
     (path "/8e4bebbd-b918-44d5-8394-c191f4e972d3/ef6c098d-4d9a-4ace-97a2-293027dc179a"
       (reference "#PWR0301") (unit 1) (value "GND") (footprint "")
@@ -201,6 +213,18 @@
     )
     (path "/59857acb-489d-4d58-af14-88362a204248/ab6d12ab-0b38-4443-891e-7225bd98017b"
       (reference "C416") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+    )
+    (path "/e2c8983e-9459-4573-b339-1f4298bf65be/95f28639-a909-4bb2-b433-91cd10ed9848"
+      (reference "H201") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_3.2mm_M3_Pad")
+    )
+    (path "/e2c8983e-9459-4573-b339-1f4298bf65be/fd3e2f1a-8d26-4259-a466-d54b5c1af12b"
+      (reference "H202") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_3.2mm_M3_Pad")
+    )
+    (path "/e2c8983e-9459-4573-b339-1f4298bf65be/d92f1200-4d64-4a47-b249-9cd5259b3d13"
+      (reference "H203") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_3.2mm_M3_Pad")
+    )
+    (path "/e2c8983e-9459-4573-b339-1f4298bf65be/a839d5f6-f1b3-4814-b22c-d718609430bf"
+      (reference "H204") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_3.2mm_M3_Pad")
     )
     (path "/e2c8983e-9459-4573-b339-1f4298bf65be/b9c685d6-f377-4ad6-9066-70700b3c027c"
       (reference "IC201") (unit 1) (value "MAX3059ASA+T UPSTREAM") (footprint "SOIC127P600X175-8N")
